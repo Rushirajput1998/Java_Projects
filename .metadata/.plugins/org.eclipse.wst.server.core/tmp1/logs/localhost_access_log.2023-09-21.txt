@@ -1,0 +1,11 @@
+127.0.0.1 - - [21/Sep/2023:21:56:11 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [21/Sep/2023:21:56:15 +0530] "GET /jsp2/ HTTP/1.1" 302 -
+127.0.0.1 - - [21/Sep/2023:21:56:20 +0530] "GET /jsp2/home HTTP/1.1" 500 94138
+127.0.0.1 - - [21/Sep/2023:21:56:20 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [21/Sep/2023:21:57:25 +0530] "GET /jsp2/home HTTP/1.1" 200 641
+127.0.0.1 - - [21/Sep/2023:21:57:25 +0530] "GET /jsp2/$%7BpageContext.request.contextPath%7D/WEB-INF/resources/css/home1.css HTTP/1.1" 404 682
+127.0.0.1 - - [21/Sep/2023:21:59:24 +0530] "POST /jsp2/SellerRegister1 HTTP/1.1" 200 995
+127.0.0.1 - - [21/Sep/2023:21:59:24 +0530] "GET /jsp2/resources/css/Register.css HTTP/1.1" 404 682
+127.0.0.1 - - [21/Sep/2023:21:59:24 +0530] "GET /jsp2/css/Register.css HTTP/1.1" 404 682
+127.0.0.1 - - [21/Sep/2023:22:04:20 +0530] "GET /jsp2/Login1? HTTP/1.1" 200 852
+127.0.0.1 - - [21/Sep/2023:22:04:20 +0530] "GET /jsp2/resources/css/Register.css HTTP/1.1" 404 682

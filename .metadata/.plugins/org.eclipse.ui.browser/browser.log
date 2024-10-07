@@ -1,0 +1,303 @@
+
+Aug 15, 2023 21:24:57.124 NEW SESSION
+Aug 15, 2023 21:24:57.125 [19692:38444:0815/212457.121:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:24:57.430 [19692:38444:0815/212457.430:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:24:57.431 [19692:38444:0815/212457.430:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:24:57.432 [19692:38444:0815/212457.430:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:24:57.432 [19692:38444:0815/212457.430:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:25:21.863 [19692:38444:0815/212521.863:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:25:26.571 [19692:38444:0815/212526.571:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:25:27.02 [19692:38444:0815/212527.002:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:25:27.19 [19692:38444:0815/212527.019:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:25:27.424 [19692:38444:0815/212527.423:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:26:06.933 [19692:38444:0815/212606.933:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:26:10.95 [19692:38444:0815/212610.095:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:26:13.262 [19692:38444:0815/212613.262:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:26:19.428 [19692:38444:0815/212619.427:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:26:27.114 [19692:38444:0815/212627.114:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:27:42.518 [19692:38444:0815/212742.517:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:27:45.175 [19692:38444:0815/212745.174:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:27:48.769 [19692:38444:0815/212748.768:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:27:58.325 [19692:38444:0815/212758.324:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:28:19.514 [19692:38444:0815/212819.514:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:30:41.506 [19692:38444:0815/213041.506:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:30:43.478 [19692:38444:0815/213043.478:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:31:26.136 [19692:38444:0815/213126.136:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:31:42.295 [19692:38444:0815/213142.295:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:31:43.698 [19692:38444:0815/213143.698:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:37:33.331 [19692:38444:0815/213733.330:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:37:45.462 [19692:38444:0815/213745.462:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:37:49.658 [19692:38444:0815/213749.657:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:38:16.08 [19692:38444:0815/213816.008:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:38:27.839 [19692:38444:0815/213827.839:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:47:45.465 [19692:38444:0815/214745.464:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Aug 18, 2023 09:03:39.760 NEW SESSION
+Aug 18, 2023 09:03:39.760 [21340:18220:0818/090339.757:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 18, 2023 09:04:18.170 [21340:18220:0818/090418.169:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 18, 2023 09:05:19.605 [21340:18220:0818/090519.605:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 18, 2023 09:06:00.664 [21340:17264:0818/090600.663:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 18, 2023 09:07:39.667 [21340:18220:0818/090739.666:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -100
+Aug 18, 2023 09:07:42.34 [21340:17264:0818/090742.034:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 18, 2023 09:11:11.88 [21340:17264:0818/091111.088:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Aug 19, 2023 09:05:20.842 NEW SESSION
+Aug 19, 2023 09:05:20.842 [1844:18260:0819/090520.755:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 19, 2023 09:14:29.970 [1844:35876:0819/091429.969:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 19, 2023 09:14:36.50 [1844:35876:0819/091436.050:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 19, 2023 09:14:38.710 [1844:18260:0819/091438.709:ERROR:device_event_log_impl.cc(225)] [09:14:38.707] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 19, 2023 09:15:23.297 [1844:35876:0819/091523.296:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 19, 2023 09:58:33.255 [1844:18260:0819/095833.255:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Aug 20, 2023 15:28:51.509 NEW SESSION
+Aug 20, 2023 15:28:51.510 [30448:47844:0820/152851.466:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2023 15:29:11.949 [30448:47844:0820/152911.949:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2023 15:30:11.577 [30448:47844:0820/153011.576:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2023 15:32:07.317 [30448:47844:0820/153207.316:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2023 15:35:35.798 [30448:47844:0820/153535.798:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2023 15:42:52.843 [30448:47844:0820/154252.843:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2023 21:21:43.865 [30448:47844:0820/212143.864:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2023 21:21:44.439 [30448:25764:0820/212143.880:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 20, 2023 21:22:58.896 [30448:38796:0820/212258.896:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 20, 2023 21:24:51.409 [30448:38796:0820/212451.408:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 20, 2023 21:24:59.852 [30448:47844:0820/212459.852:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 20, 2023 21:24:59.880 [30448:42688:0820/212459.879:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 20, 2023 21:41:04.488 [30448:47844:0820/214104.488:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Aug 21, 2023 14:47:44.252 NEW SESSION
+Aug 21, 2023 14:47:44.252 [27548:33420:0821/144744.219:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 21, 2023 14:47:50.451 [27548:33420:0821/144750.451:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2023 14:47:53.654 [27548:54116:0821/144753.653:ERROR:device_event_log_impl.cc(225)] [14:47:53.570] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 21, 2023 14:48:39.942 [27548:33420:0821/144839.942:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2023 14:50:07.251 [27548:33420:0821/145007.251:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2023 14:53:32.103 [27548:33420:0821/145332.102:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 21, 2023 14:59:47.771 [27548:33420:0821/145947.769:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Aug 23, 2023 11:33:33.388 NEW SESSION
+Aug 23, 2023 11:33:33.388 [14564:15244:0823/113333.387:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 11:33:33.455 [14564:15244:0823/113333.387:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:33:33.455 [14564:15244:0823/113333.387:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:33:33.455 [14564:15244:0823/113333.387:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:33:56.322 [14564:15244:0823/113356.322:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:33:59.514 [14564:15244:0823/113359.514:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 11:34:00.939 [14564:15244:0823/113400.938:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:34:02.459 [14564:15244:0823/113402.458:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:34:43.306 [14564:15244:0823/113443.306:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:34:46.170 [14564:15244:0823/113446.170:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:34:51.679 [14564:15244:0823/113451.678:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:34:56.792 [14564:15244:0823/113456.792:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 11:36:07.946 [14564:15244:0823/113607.946:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:36:20.241 [14564:15244:0823/113620.241:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 11:36:30.32 [14564:15244:0823/113630.031:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:36:45.970 [14564:15244:0823/113645.970:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 23, 2023 11:39:18.127 [14564:15244:0823/113918.126:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 23, 2023 11:39:37.760 [14564:15244:0823/113937.759:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 12:55:23.820 [14564:15244:0823/125523.818:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 23, 2023 13:00:36.549 [14564:15244:0823/130036.548:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 23, 2023 13:00:45.570 [14564:15244:0823/130045.570:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 13:00:46.969 [14564:10872:0823/130046.969:ERROR:device_event_log_impl.cc(225)] [13:00:46.917] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 23, 2023 13:01:31.478 [14564:15244:0823/130131.477:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 13:03:18.756 [14564:15244:0823/130318.756:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 14:26:58.763 [14564:15244:0823/142658.763:ERROR:checkin_request.cc(243)] Check-in request got net error: -7
+Aug 23, 2023 14:30:30.227 [14564:15244:0823/143030.227:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 23, 2023 14:30:32.289 [14564:15244:0823/143032.288:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 14:30:33.977 [14564:10872:0823/143033.977:ERROR:device_event_log_impl.cc(225)] [14:30:33.976] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 23, 2023 14:30:38.637 [14564:15244:0823/143038.637:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 23, 2023 14:30:57.200 [14564:15244:0823/143057.200:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 23, 2023 14:31:41.629 [14564:15244:0823/143141.629:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 16:42:32.718 [14564:15244:0823/164232.718:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 23, 2023 17:00:04.213 [14564:15244:0823/170004.213:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 17:00:27.327 [14564:15244:0823/170027.327:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 17:01:24.453 [14564:15244:0823/170124.453:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 17:03:18.517 [14564:15244:0823/170318.516:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 17:06:37.552 [14564:15244:0823/170637.551:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 17:12:05.675 [14564:15244:0823/171205.675:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 17:49:35.293 [14564:15244:0823/174935.293:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 23, 2023 17:49:40.349 [14564:15244:0823/174940.349:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 23, 2023 17:49:43.719 [14564:15244:0823/174943.719:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 17:49:46.385 [14564:10872:0823/174946.385:ERROR:device_event_log_impl.cc(225)] [17:49:46.384] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 23, 2023 20:29:26.222 [14564:15244:0823/202926.222:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 20:29:26.222 [14564:14236:0823/202926.222:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 23, 2023 20:30:08.617 [14564:15244:0823/203008.617:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 23, 2023 20:30:23.700 [14564:12984:0823/203023.700:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 23, 2023 20:30:25.705 [14564:15244:0823/203025.705:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Aug 27, 2023 12:42:16.191 NEW SESSION
+Aug 27, 2023 12:42:16.191 [8516:12788:0827/124216.186:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2023 12:42:20.542 [8516:12788:0827/124220.542:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 12:42:22.17 [8516:14612:0827/124222.017:ERROR:device_event_log_impl.cc(225)] [12:42:22.016] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 27, 2023 12:43:09.602 [8516:12788:0827/124309.601:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 12:43:54.627 [8516:12788:0827/124354.627:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2023 14:02:58.04 [8516:12788:0827/140258.004:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 27, 2023 14:30:38.12 [8516:12788:0827/143038.012:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 14:30:38.13 [8516:12788:0827/143038.012:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 27, 2023 14:31:02.744 [8516:12788:0827/143102.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 14:31:03.409 [8516:12788:0827/143103.409:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 27, 2023 14:31:46.130 [8516:12788:0827/143146.130:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 14:31:51.823 [8516:12788:0827/143151.823:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 27, 2023 14:33:28.926 [8516:12788:0827/143328.926:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 14:33:41.497 [8516:12788:0827/143341.497:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 27, 2023 15:07:16.444 [8516:14612:0827/150716.443:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 27, 2023 15:11:27.462 [8516:14612:0827/151127.462:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+Aug 27, 2023 15:47:11.770 [8516:12788:0827/154711.770:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 15:47:35.261 [8516:12788:0827/154735.261:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 15:48:28.267 [8516:12788:0827/154828.267:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 15:50:17.302 [8516:12788:0827/155017.302:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 15:53:40.250 [8516:12788:0827/155340.250:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 16:01:07.34 [8516:12788:0827/160107.034:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 17:56:43.224 [8516:12788:0827/175643.224:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 17:56:43.225 [8516:16932:0827/175643.225:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 17:57:16.685 [8516:14612:0827/175716.684:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Aug 27, 2023 17:57:58.236 [8516:21976:0827/175758.236:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 17:59:50.753 [8516:21976:0827/175950.752:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 18:02:39.515 [8516:21976:0827/180239.515:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 18:06:43.237 [8516:12788:0827/180643.237:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 18:09:41.410 [8516:21976:0827/180941.410:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 18:16:43.246 [8516:12788:0827/181643.245:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 18:19:41.427 [8516:21976:0827/181941.426:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 18:26:43.261 [8516:12788:0827/182643.261:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 18:29:41.432 [8516:21976:0827/182941.432:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 18:44:49.357 [8516:12788:0827/184449.356:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 18:44:49.357 [8516:20408:0827/184449.357:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 18:54:49.359 [8516:12788:0827/185449.358:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 18:54:49.401 [8516:23748:0827/185449.375:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 19:04:49.374 [8516:12788:0827/190449.373:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 19:04:49.392 [8516:23748:0827/190449.392:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 19:14:49.379 [8516:12788:0827/191449.378:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 19:14:49.411 [8516:21976:0827/191449.411:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 19:24:49.384 [8516:12788:0827/192449.384:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 19:24:49.417 [8516:21976:0827/192449.417:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 20:36:41.626 [8516:12788:0827/203641.626:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 20:36:41.627 [8516:15860:0827/203641.627:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 20:46:41.643 [8516:12788:0827/204641.642:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 20:46:41.645 [8516:21976:0827/204641.645:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 21:49:28.183 [8516:12788:0827/214928.182:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 27, 2023 21:49:28.183 [8516:25184:0827/214928.183:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 27, 2023 21:58:40.487 [8516:12788:0827/215840.487:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2023 21:58:40.498 [8516:25184:0827/215840.498:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Aug 28, 2023 21:05:41.671 NEW SESSION
+Aug 28, 2023 21:05:41.671 [16628:23632:0828/210541.668:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 28, 2023 21:15:24.687 [16628:17456:0828/211524.686:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 28, 2023 21:15:26.784 [16628:17456:0828/211526.784:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 28, 2023 21:15:28.509 [16628:18916:0828/211528.509:ERROR:device_event_log_impl.cc(225)] [21:15:28.508] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 28, 2023 21:15:33.302 [16628:17456:0828/211533.302:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 28, 2023 21:16:22.490 [16628:18916:0828/211622.490:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Aug 29, 2023 22:26:19.793 NEW SESSION
+Aug 29, 2023 22:26:19.793 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 29, 2023 22:26:19.830 [ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 29, 2023 22:29:39.898 [Parent 10308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+Aug 29, 2023 22:29:39.899 [GPU 20684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+Aug 29, 2023 22:29:39.907 [Parent 10308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+Aug 29, 2023 22:29:39.907 [GPU 20684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+Aug 29, 2023 22:29:40.800 [Parent 10308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+Aug 29, 2023 22:29:40.801 [GPU 20684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+Aug 29, 2023 22:29:40.804 [Parent 10308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+Aug 29, 2023 22:29:40.805 [GPU 20684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+Aug 29, 2023 22:29:40.807 [Parent 10308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+Aug 29, 2023 22:29:40.807 [GPU 20684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+Aug 29, 2023 22:29:40.807 [Parent 10308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+Aug 29, 2023 22:29:40.808 [GPU 20684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+
+Sept 22, 2023 21:34:55.128 NEW SESSION
+Sept 22, 2023 21:34:55.128 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Sept 22, 2023 21:34:57.537 [24072:31516:0922/213457.536:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:34:57.538 [24072:31516:0922/213457.537:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:36:07.589 [24072:31516:0922/213607.589:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:36:07.609 [24072:31516:0922/213607.589:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:36:10.909 [24072:31516:0922/213610.908:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:36:10.911 [24072:31516:0922/213610.909:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:37:57.705 [24072:31516:0922/213757.705:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:37:57.707 [24072:31516:0922/213757.705:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:39:13.23 [24072:31516:0922/213913.022:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:39:13.24 [24072:31516:0922/213913.024:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:40:03.856 [24072:31516:0922/214003.855:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:40:03.857 [24072:31516:0922/214003.856:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:41:43.138 [24072:31516:0922/214143.137:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:41:43.138 [24072:31516:0922/214143.138:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:46:49.572 [24072:31516:0922/214649.571:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:46:49.573 [24072:31516:0922/214649.572:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:47:39.406 [24072:31516:0922/214739.405:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:47:39.408 [24072:31516:0922/214739.406:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:50:56.496 [24072:31516:0922/215056.496:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:50:56.497 [24072:31516:0922/215056.496:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:52:35.868 [24072:31516:0922/215235.867:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:52:35.868 [24072:31516:0922/215235.868:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:53:21.762 [24072:31516:0922/215321.761:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:53:21.763 [24072:31516:0922/215321.762:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:03.505 [24072:31516:0922/215603.504:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:03.507 [24072:31516:0922/215603.505:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:11.766 [24072:31516:0922/215611.765:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:11.766 [24072:31516:0922/215611.766:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:17.310 [24072:31516:0922/215617.309:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:17.312 [24072:31516:0922/215617.310:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:22.776 [24072:31516:0922/215622.776:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:22.776 [24072:31516:0922/215622.776:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:40.520 [24072:31516:0922/215640.519:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:56:40.521 [24072:31516:0922/215640.520:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:57:53.126 [24072:31516:0922/215753.126:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:57:53.128 [24072:31516:0922/215753.126:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:58:30.807 [24072:31516:0922/215830.806:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:58:30.807 [24072:31516:0922/215830.807:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:59:03.316 [24072:31516:0922/215903.315:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 21:59:03.317 [24072:31516:0922/215903.317:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:04:40.433 [24072:31516:0922/220440.433:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:04:40.435 [24072:31516:0922/220440.434:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:05:26.907 [24072:31516:0922/220526.907:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:05:26.909 [24072:31516:0922/220526.908:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:19:44.946 [24072:31516:0922/221944.946:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:19:44.948 [24072:31516:0922/221944.947:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:20:39.439 [24072:31516:0922/222039.438:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:20:39.440 [24072:31516:0922/222039.439:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:21:03.484 [24072:31516:0922/222103.484:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:21:03.485 [24072:31516:0922/222103.485:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:24:03.476 [24072:31516:0922/222403.475:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:24:03.478 [24072:31516:0922/222403.476:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:32:34.125 [24072:31516:0922/223234.125:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:32:34.126 [24072:31516:0922/223234.125:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:33:07.544 [24072:31516:0922/223307.544:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:33:07.545 [24072:31516:0922/223307.544:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:36:09.300 [24072:31516:0922/223609.300:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:36:09.301 [24072:31516:0922/223609.300:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:36:42.267 [24072:31516:0922/223642.267:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:36:42.268 [24072:31516:0922/223642.267:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:37:33.355 [24072:31516:0922/223733.355:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:37:33.356 [24072:31516:0922/223733.355:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:37:56.804 [24072:31516:0922/223756.804:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:37:56.805 [24072:31516:0922/223756.804:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:57:09.136 [24072:31516:0922/225709.136:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:57:09.137 [24072:31516:0922/225709.136:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:57:49.413 [24072:31516:0922/225749.413:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:57:49.414 [24072:31516:0922/225749.413:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:58:47.249 [24072:31516:0922/225847.249:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:58:47.250 [24072:31516:0922/225847.250:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:59:40.797 [24072:31516:0922/225940.796:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:59:40.798 [24072:31516:0922/225940.797:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:59:53.107 [24072:31516:0922/225953.107:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 22:59:53.108 [24072:31516:0922/225953.107:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:01:18.335 [24072:31516:0922/230118.335:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:01:18.337 [24072:31516:0922/230118.335:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:01:49.527 [24072:31516:0922/230149.526:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:01:49.527 [24072:31516:0922/230149.527:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:18:38.756 [24072:18864:0922/231838.756:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sept 22, 2023 23:24:08.289 [24072:31516:0922/232408.288:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:24:08.291 [24072:31516:0922/232408.289:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:25:30.793 [24072:31516:0922/232530.792:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:25:30.793 [24072:31516:0922/232530.792:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:27:04.216 [24072:31516:0922/232704.215:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:27:04.217 [24072:31516:0922/232704.216:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:30:33.766 [24072:31516:0922/233033.765:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:30:33.766 [24072:31516:0922/233033.766:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:40:49.496 [24072:31516:0922/234049.496:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:40:49.496 [24072:31516:0922/234049.496:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:43:12.495 [24072:31516:0922/234312.494:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:43:12.496 [24072:31516:0922/234312.495:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:44:29.495 [24072:31516:0922/234429.495:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:44:29.497 [24072:31516:0922/234429.495:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:44:35.287 [24072:31516:0922/234435.287:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:44:35.289 [24072:31516:0922/234435.288:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:45:07.764 [24072:31516:0922/234507.762:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:45:07.765 [24072:31516:0922/234507.764:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:47:38.107 [24072:31516:0922/234738.106:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Sept 22, 2023 23:47:38.108 [24072:31516:0922/234738.107:ERROR:feature_processor_state.cc(40)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 

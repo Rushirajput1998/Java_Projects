@@ -1,0 +1,123 @@
+package com.controller;
+
+import java.time.LocalDate;
+import java.time.Year;
+import java.util.Date;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import com.model.Inventory;
+import com.model.Product;
+import com.service.InventoryService;
+import com.service.ProductService;
+
+@Controller
+public class ProductController {
+	
+	 @Autowired
+	    private ProductService productService;
+	 
+	 @Autowired
+	 private InventoryService inventoryService;
+	 
+	 @RequestMapping("/AddProduct")
+	 public String showAddProduct()
+	 {
+		 return "AddProduct";
+	 }
+	 
+	 @RequestMapping(value = "/addProduct", method = RequestMethod.POST)
+	    public String addProduct(HttpServletRequest request)
+	 {
+	        HttpSession httpSession = request.getSession();
+	        Long guid = (Long) httpSession.getAttribute("currentuser");
+
+	        String pname = request.getParameter("pname");
+	        String pid = request.getParameter("pid");
+			 String pmfname = request.getParameter("pmfname"); 
+			 String mdateString = request.getParameter("mdate");
+			 String edateString = request.getParameter("edate");
+
+			 Year pmfYear = null;
+			 Year pexYear = null;
+
+			 if (mdateString != null && !mdateString.isEmpty()) {
+			     pmfYear = Year.parse(mdateString);
+			 }
+
+			 if (edateString != null && !edateString.isEmpty()) {
+			     pexYear = Year.parse(edateString);
+			 }
+
+			 String priceString = request.getParameter("price");
+			 int pprice = 0; // Default value, change this if necessary
+
+			 if (priceString != null && !priceString.isEmpty()) {
+			     try {
+			         pprice = Integer.parseInt(priceString);
+			     } catch (NumberFormatException e) {
+			        e.printStackTrace();
+			     }
+			 }
+
+				/* int pquantity = Integer.parseInt(request.getParameter("quantity")); */
+
+			 // Provide default values for pmfdate and pexdate if they are still null
+			 if (pmfdate == null) {
+			     pmfdate = LocalDate.now(); // or any other default value you prefer
+			 }
+
+			 if (pexdate == null) {
+			     pexdate = LocalDate.now(); // or any other default value you prefer
+			 }
+			 String priceString1 = request.getParameter("pprice");
+			 int pprice1 = 0; // Default value, change this if necessary
+
+			 if (priceString1 != null && !priceString1.isEmpty()) {
+			     try {
+			         pprice1 = Integer.parseInt(priceString1);
+			     } catch (NumberFormatException e) {
+			         e.printStackTrace();
+			     }
+			 }
+
+			 String quantityString1 = request.getParameter("pquantity");
+			 int pquantity1 = 0; // Default value, change this if necessary
+
+			 if (quantityString1 != null && !quantityString1.isEmpty()) {
+			     try {
+			         pquantity1 = Integer.parseInt(quantityString1);
+			     } catch (NumberFormatException e) {
+			         e.printStackTrace();
+			     }
+			 }
+	        try {
+	            Product existingProduct = productService.getProductByProductId(pid);
+	            if (existingProduct == null) {
+	                Product product = new Product(pid, pname,pmfname, pmfdate, pexdate, pprice1,pquantity1);
+	                productService.addProduct(product);
+
+	                Inventory inventory = new Inventory(pid, pname, guid, pquantity1);
+	                inventoryService.addInventory(inventory);
+
+	                return "redirect:AddInventory"; // Redirect to the AddInventory page
+	            } else {
+	                return "redirect:AddProductError";
+	            }
+	        } catch (Exception e) {
+	            return "redirect:AddProductError2";
+	        }
+	    }
+	 @RequestMapping("/AddProductError2")
+	 public String productError()
+	 {
+		 return "AddProductError2";
+	 }
+
+}

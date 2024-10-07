@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+E:\Java Practical\Eclipse2\Online Medicine Shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3805942995.index
+\jsp2\src
+E:\Java Practical\Eclipse2\Online Medicine Shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\594727862.index
+\jsp2\src
